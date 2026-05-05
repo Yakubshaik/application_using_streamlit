@@ -1,0 +1,6 @@
+target:
+  - url: "docs/"
+
+reinit: "Deep docs use"
+
+ignore: []
