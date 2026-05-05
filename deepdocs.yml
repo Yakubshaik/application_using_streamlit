@@ -1,6 +1,6 @@
 target:
   - url: "docs/"
 
-reinit: "Deep docs use"
+reinit: "Deep docs use 1"
 
 ignore: []
